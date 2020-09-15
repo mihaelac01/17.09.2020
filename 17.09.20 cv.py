@@ -1,0 +1,7 @@
+print("Cocieru Mihaela")
+print("Data nasterii:12.11.2004")
+print("Eleva clasei a-10-a ''D''")
+print("Domiciliul:mun.Balti,str.Bulgara82")
+print("Numarul de telefon:060076206")
+print("Adresa de email:mihaelacocieru04@gmail.com")
+print("Interese:cititul,gatitul,privitul filmelor")
